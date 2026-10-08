@@ -4,6 +4,8 @@
 📧 **Email:** itsfarheen357@gmail.com  
 🚀 Open to collaborations, internships, and AI-based projects  
 
+I'm currently looking for opportunities to grow as a Junior AI / Generative AI Engineer and contribute to real-world AI products.
+
 ---
 
 ## 👨‍💻 About Me
