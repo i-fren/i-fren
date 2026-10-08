@@ -16,7 +16,9 @@
 ---
 
 ## 🎯 Goal  
-Building real-world AI projects using Python and growing as an AI Developer 🚀  
+I'm a Python developer focused on building practical AI applications with Generative AI, Retrieval-Augmented Generation (RAG), AI agents, and data automation.
+
+I enjoy turning real-world problems into working AI applications and continuously improving my understanding of AI engineering.🚀  
 
 ---
 
