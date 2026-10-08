@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Farheen Mustafa  
-### Gen Ai Engineer | AI Enthusiast 🤖
+### Generative AI | RAG | AI Agents| AI Enthusiast 🤖
 
 📧 **Email:** itsfarheen357@gmail.com  
 🚀 Open to collaborations, internships, and AI-based projects  
