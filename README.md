@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Farheen Mustafa  
-### Python Developer | AI Enthusiast 🤖
+### Gen Ai Engineer | AI Enthusiast 🤖
 
 📧 **Email:** itsfarheen357@gmail.com  
 🚀 Open to collaborations, internships, and AI-based projects  
@@ -7,10 +7,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on: Python development & AI projects  
+- 🔭 Currently working on: solution developer Gen Ai  & AI projects  
 - 🌱 Currently learning: Python for Artificial Intelligence & Machine Learning  
 - 🤝 Looking to collaborate on: AI, Python automation, and beginner-friendly projects  
-- 💬 Ask me about: Python, AI basics, and project building  
+- 💬 Ask me about: Python, AI , and project building  
 - ⚡ Fun fact: I love turning ideas into smart AI solutions  
 
 ---
